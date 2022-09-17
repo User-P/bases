@@ -7,3 +7,4 @@ import { ContadorComponent } from './contador/contador.componet';
   exports: [ContadorComponent],
 })
 export class ContadorModule {}
+ 
